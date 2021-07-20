@@ -639,7 +639,7 @@ function setLatestDataset() {
     }, 0);
   currentVersion = Object.keys(dataSet)[latestDateIndex];
 
-  characterData = dataSet[currentVersion].characterData;
+  characterData = dataSet[currentVersion].characterData; console.log(currentVersion,dataSet[currentVersion])
   options = dataSet[currentVersion].options;
 
   populateOptions();
