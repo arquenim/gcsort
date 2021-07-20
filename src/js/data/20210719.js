@@ -88,7 +88,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Jin",
     img: "VlcH8wZ.png",
     opts: {
-          species: ["human", "deity'],
+          species: ["human", "deity"],
           status: ["alive"],
           region: ["aernas"],
           gender: ["boy"],
