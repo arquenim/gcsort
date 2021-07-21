@@ -126,7 +126,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Harpe",
-    img: "Sf2hl3s.png",
+    img: "KHf3Jpc.png",
     opts: {
           species: ["human"],
           status: ["dead"],
