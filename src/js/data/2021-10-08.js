@@ -364,7 +364,7 @@ dataSet[dataSetVersion].characterData = [
           region: ["celestia"],
           gender: ["girl"],
     }
-  }
+  },
   {
     name: "Cindy",
     img: "p6kh9gf.png",
