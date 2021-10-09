@@ -364,5 +364,15 @@ dataSet[dataSetVersion].characterData = [
           region: ["celestia"],
           gender: ["girl"],
     }
-  }
+  },
+  {
+    name: "Cindy",
+    img: "p6kh9gf.png",
+    opts: {
+          species: ["human"],
+          status: ["alive"],
+          region: ["kricktria", "aernas"],
+          gender: ["girl"],
+    }
+  }    
 ];
