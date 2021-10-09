@@ -36,6 +36,7 @@ dataSet[dataSetVersion].options = [
     sub: [
          { name: "Aernas", key: "aernas" },
          { name: "Elyos", key: "elyos" },
+         { name: "Kricktria", key: "kricktria" },
          { name: "Underworld", key: "underworld" },
          { name: "Celestia", key: "celestia" },
          { name: "Spirit World", key: "spworld" },
@@ -260,7 +261,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
           species: ["elf"],
           status: ["alive"],
-          region: ["aernas"],
+          region: ["aernas", "kricktria"],
           gender: ["boy"],
     }
   },
@@ -363,5 +364,15 @@ dataSet[dataSetVersion].characterData = [
           region: ["celestia"],
           gender: ["girl"],
     }
-  }
+  },
+  {
+    name: "Cindy",
+    img: "p6kh9gf.png",
+    opts: {
+          species: ["human"],
+          status: ["alive"],
+          region: ["kricktria", "aernas"],
+          gender: ["girl"],
+    }
+  }    
 ];
