@@ -1,4 +1,4 @@
-dataSetVersion = "2021-10-08"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2021-07-22"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -364,15 +364,5 @@ dataSet[dataSetVersion].characterData = [
           region: ["celestia"],
           gender: ["girl"],
     }
-  },
-  {
-    name: "Cindy",
-    img: "p6kh9gf.png",
-    opts: {
-          species: ["human"],
-          status: ["alive"],
-          region: ["kricktria", "aernas"],
-          gender: ["girl"],
-    }
-  }    
+  }
 ];
