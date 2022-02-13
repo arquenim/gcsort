@@ -377,7 +377,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ragna",
-    img: "https://i.imgur.com/M4AhWKH.png",
+    img: "M4AhWKH.png",
     opts: {
           species: ["spirit"],
           status: ["alive"],
