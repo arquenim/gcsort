@@ -57,7 +57,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Elesis",
-    img: "GT5Vtm0.png",
+    img: "RMzlgCY.png",
     opts: {
           species: ["human"],
           status: ["alive"],
@@ -67,7 +67,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Amy",
-    img: "jgdc8WX.png",
+    img: "S0BOgym.png",
     opts: {
           species: ["human"],
           status: ["alive"],
@@ -77,7 +77,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Arme",
-    img: "m5hY7Vc.png",
+    img: "vjATSyX.png",
     opts: {
           species: ["human"],
           status: ["alive"],
@@ -87,7 +87,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jin",
-    img: "p6DmkgX.png",
+    img: "rbCQXzD.png",
     opts: {
           species: ["human", "deity"],
           status: ["alive"],
@@ -97,7 +97,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Edel",
-    img: "E9TXQ2B.png",
+    img: "mY3UZB8.png",
     opts: {
           species: ["human"],
           status: ["alive"],
@@ -107,7 +107,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kanavan",
-    img: "datkBuY.png",
+    img: "OsAWqLf.png",
     opts: {
           species: ["human"],
           status: ["dead"],
@@ -117,7 +117,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Europa",
-    img: "Sf2hl3s.png",
+    img: "FqqB5D6.png",
     opts: {
           species: ["celestial"],
           status: ["alive"],
@@ -127,7 +127,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Harpe",
-    img: "udrnGI4.png",
+    img: "1SwXKKz.png",
     opts: {
           species: ["human"],
           status: ["dead"],
@@ -137,7 +137,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hwarin",
-    img: "dMKnGuc.png",
+    img: "GYzei63.png",
     opts: {
           species: ["haros"],
           status: ["alive"],
@@ -147,7 +147,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lass",
-    img: "SYr1j6c.png",
+    img: "egPBJ2m.png",
     opts: {
           species: ["human", "haros"],
           status: ["alive"],
@@ -157,7 +157,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ley",
-    img: "OEfm8gh.png",
+    img: "KcQxB5m.png",
     opts: {
           species: ["demon"],
           status: ["alive"],
@@ -167,7 +167,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lire",
-    img: "877P6xf.png",
+    img: "2u2ju55.png",
     opts: {
           species: ["elf"],
           status: ["alive"],
@@ -177,7 +177,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mari",
-    img: "V7Luo14.png",
+    img: "SzDgzhT.png",
     opts: {
           species: ["human", "celestial"],
           status: ["alive"],
@@ -187,7 +187,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rin",
-    img: "zXhec4b.png",
+    img: "ljIaNv0.png",
     opts: {
           species: ["human", "deity"],
           status: ["alive"],
@@ -197,7 +197,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ronan",
-    img: "qE5tpgR.png",
+    img: "ND19yx3.png",
     opts: {
           species: ["human"],
           status: ["alive"],
@@ -207,7 +207,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Serdin",
-    img: "X9s3PVB.png",
+    img: "cFiAC0l.png",
     opts: {
           species: ["human"],
           status: ["dead"],
@@ -217,7 +217,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sieghart",
-    img: "2UpBxpJ.png",
+    img: "25Jxfpp.png",
     opts: {
           species: ["human", "deity"],
           status: ["alive"],
@@ -227,7 +227,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Veigas",
-    img: "oPge3Dx.png",
+    img: "CZZxPAF.png",
     opts: {
           species: ["demon"],
           status: ["alive"],
@@ -237,7 +237,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dio",
-    img: "e4lg7eZ.png",
+    img: "gDFcL40.png",
     opts: {
           species: ["demon"],
           status: ["alive"],
@@ -247,7 +247,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Asin",
-    img: "tcC6zAu.png",
+    img: "JfoFsnv.png",
     opts: {
           species: ["human"],
           status: ["alive"],
@@ -257,7 +257,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Grandiel",
-    img: "rpFtYuO.png",
+    img: "DQQ1wuL.png",
     opts: {
           species: ["elf"],
           status: ["alive"],
@@ -267,7 +267,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Io",
-    img: "F2PC2Yc.png",
+    img: "dBQBZ7a.png",
     opts: {
           species: ["celestial"],
           status: ["alive"],
@@ -277,7 +277,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lapis",
-    img: "0cgjjad.png",
+    img: "gQO2B1b.png",
     opts: {
           species: ["celestial", "demon", "abaddon"],
           status: ["alive"],
@@ -287,7 +287,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lime",
-    img: "zNHdrOC.png",
+    img: "QROzZMD.png",
     opts: {
           species: ["human"],
           status: ["alive"],
@@ -297,7 +297,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nelia",
-    img: "QkI3BQZ.png",
+    img: "GZEbi1K.png",
     opts: {
           species: ["demon"],
           status: ["alive"],
@@ -307,7 +307,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rufus",
-    img: "kxveeRQ.png",
+    img: "TAdbSG2.png",
     opts: {
           species: ["haros"],
           status: ["alive"],
@@ -317,7 +317,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ryan",
-    img: "Jh1LYp0.png",
+    img: "0qOR2et.png",
     opts: {
           species: ["elf"],
           status: ["alive"],
@@ -327,7 +327,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tia",
-    img: "JzbFiA7.png",
+    img: "LAJik9L.png",
     opts: {
           species: ["spirit"],
           status: ["alive"],
@@ -337,7 +337,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Werner",
-    img: "nICzZvF.png",
+    img: "ngE1C1O.png",
     opts: {
           species: ["demon"],
           status: ["dead"],
@@ -347,7 +347,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Zero",
-    img: "66X2SOa.png",
+    img: "lzjhnf8.png",
     opts: {
           species: ["demon"],
           status: ["alive"],
@@ -357,7 +357,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Calisto",
-    img: "ppbhvDx.png",
+    img: "aBWhdzs.png",
     opts: {
           species: ["celestial"],
           status: ["alive"],
@@ -367,7 +367,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cindy",
-    img: "Vkbvr4s.png",
+    img: "cReyXSZ.png",
     opts: {
           species: ["human"],
           status: ["alive"],
@@ -377,12 +377,22 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ragna",
-    img: "M4AhWKH.png",
+    img: "4WhFsmv.png",
     opts: {
           species: ["spirit"],
           status: ["alive"],
           region: ["spworld"],
           gender: ["girl"],
     }
-  }    
+  },
+  {
+    name: "Myst",
+    img: "2xWwKeL.png",
+    opts: {
+          species: ["celestial", "demon", "abaddon"],
+          status: ["alive"],
+          region: ["elyos"],
+          gender: ["boy"],
+    }
+  } 
 ];
